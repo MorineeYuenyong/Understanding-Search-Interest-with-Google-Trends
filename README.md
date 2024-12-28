@@ -11,7 +11,8 @@ The global interest in AI tools is rapidly evolving. This analysis focuses on un
 - Python: Used for data processing and analysis.
 - Pandas: For manipulating and analyzing the time series data.
 - Matplotlib: For visualizing trends and patterns.
-- Google Trends Data: The Google Trends data is available as a CSV file `ai_tools_comparison.csv`. The data contains the number of worldwide searches for chatGpt, Gemini, and Microsoft Copilot over the past 12 months as of September 2024. Link to query: https://trends.google.com/trends/explore?q=chatgpt,gemini,%2Fg%2F11tsqm45vd&hl=en-US
+- Google Trends Data: The Google Trends data is available as a CSV file `ai_tools_comparison.csv`. The data contains the number of worldwide searches for chatGpt, Gemini, and Microsoft Copilot over the past 12 months as of September 2024.
+    - Link to query: https://trends.google.com/trends/explore?q=chatgpt,gemini,%2Fg%2F11tsqm45vd&hl=en-US
   
 ## Key Analysis
 1. Consistent Growth in Interest
