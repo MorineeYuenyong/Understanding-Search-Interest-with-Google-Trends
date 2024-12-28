@@ -1,6 +1,7 @@
 # Understanding-Search-Interest-with-Google-Trends
 This project explores time series data to analyze and compare the popularity trends of three prominent AI tools: ChatGPT, Gemini, and Microsoft Copilot. The project focuses on processing and visualizing the interest over time for these AI tools, using real-world data from Google Trends, to uncover patterns, trends, and insights. By performing these analyses, the goal is to help make data-driven decisions about where to focus marketing efforts, predict future trends, and identify areas for improvement in these tool
-
+## Acknowledgements
+This project was originally created as part of a course on [DataCamp](https://www.datacamp.com). The original content and structure were provided by DataCamp.
 ## Project Overview
 The global interest in AI tools is rapidly evolving. This analysis focuses on understanding which of the three major AI tools — ChatGPT, Gemini, and Microsoft Copilot — is gaining the most traction over time. By examining time series data from Google Trends, we can identify key insights such as:
 - Which tool has the most consistent growth in interest.
